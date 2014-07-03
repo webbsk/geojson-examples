@@ -7455,6 +7455,39 @@
         "public_accessed_sites": true,
         "area": 0.098
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88202667236327,
+          40.81718705874584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88614654541016,
+          40.809391811146064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.85353088378906,
+          40.81276986422277
+        ]
+      }
     }
   ]
 }
